@@ -60,4 +60,37 @@ Laboratory of Research and Development of Network Technologies of the Faculty of
 
 # Small research teams:
 
+## Team creating monitoring system for multivendor network hardware
+
+### Glebov Ivan
+Ivan has skills in Python and developing web applications using ReactJs and JavaScript. He also has 4 years experience in  C++ coding for embedded electronics.
+#### Role in team: Team leader
+
+### Nikolay Timofeev
+Nikolay developed backend on Python (Django, Flask, Bottle, sqlalchemy, etc) and has profound skills in automation using bash scripts. He has some experience in network programming such as setting up personal web server on sockets and eager to learn more.
+
+#### Role in team: ???
+
+### Baranova Anastasia
+Anastasia has been working as software developer for 2 years mainly focusing Java and SQL programming.
+She has some experiences in and developing web applications on Angular and writing bash, python and Node.js scripts for CI/CD
+
+#### Relo in team: ???
+
+### Filyanin Ivan
+Ivan is certified MTCNA&MTCRE communications engineer. Now he is also working MTCNA teacher at ITMO Mikrotik Academy. His professional experiences include organisation of IP/MPLS networks, WISP, ISP. 
+As part of a team he developed system for multivendor networks automation based on Ansible. 
+
+Projects:
+1. IP/MLSP network of company "Старк ДВ", WISP in Tyrma, Alanap and Sinda of the Khabarocsk Territory villages;
+2. System of quality control on production based on Feecc platform.
+
+#### Role in team: ???
+
+### Volkov Egor
+Skills
+* Python 
+* JavaScript
+#### Role in team: ???
+
 # Plans for 2021:
