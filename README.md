@@ -102,28 +102,37 @@ Laboratory of Research and Development of Network Technologies of the Faculty of
 
 # Small research teams:
 
-## Team creating monitoring system for multivendor network hardware 
+## Team creating monitoring system for multivendor network hardware
 
 ### Glebov Ivan
-I have experience in developing web applications using ReactJs and JavaScript, 4 years of C++ coding for embedded electronics, have experience coding on Python.
+Ivan has skills in Python and developing web applications using ReactJs and JavaScript. He also has 4 years experience in  C++ coding for embedded electronics.
 #### Role in team: Team leader
 
 ### Nikolay Timofeev
-Like network prrogramming, but used it only once (personal web server on sockets). Backend on Python (Django, Flask, Bottle, sqlalchemy and etc.). I can automate evenything with bash.
+Nikolay developed backend on Python (Django, Flask, Bottle, sqlalchemy, etc) and has profound skills in automation using bash scripts. He has some experience in network programming such as setting up personal web server on sockets and eager to learn more.
+
 #### Role in team: ???
 
 ### Baranova Anastasia
-Work experience (developer) - 2 years. Languages - Java, SQL. 
-Write scripts on bash, python and Node.js from time to time.
-Have experience working with Angular.
+Anastasia has been working as software developer for 2 years mainly focusing Java and SQL programming.
+She has some experiences in and developing web applications on Angular and writing bash, python and Node.js scripts for CI/CD
+
 #### Relo in team: ???
 
 ### Filyanin Ivan
-Communications engeneer. I have MTCNA, MTCRE sertificates. Teaching MTCNA in ITMO Mikrotik Academy. I have experience in organisation of IP/MPLS networks, WISP, ISP. Develop with a team system of multivendor networks automation based on Ansible. Projects: 1) IP/MLSP network of company "Старк ДВ", WISP in Tyrma, Alanap and Sinda of the Khabarocsk Territory villages; 2) System of quality control on production based on Feecc platform.
+Ivan is certified MTCNA&MTCRE communications engineer. Now he is also working MTCNA teacher at ITMO Mikrotik Academy. His professional experiences include organisation of IP/MPLS networks, WISP, ISP. 
+As part of a team he developed system for multivendor networks automation based on Ansible. 
+
+Projects:
+1. IP/MLSP network of company "Старк ДВ", WISP in Tyrma, Alanap and Sinda of the Khabarocsk Territory villages;
+2. System of quality control on production based on Feecc platform.
+
 #### Role in team: ???
 
 ### Volkov Egor
-Languages: Python, JavaScript
+Skills
+* Python 
+* JavaScript
 #### Role in team: ???
 
 # Plans for 2021:
