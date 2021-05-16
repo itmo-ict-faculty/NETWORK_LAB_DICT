@@ -174,7 +174,7 @@ Skills
 
 ## IoT Team
 
-### Nikita Sorokin
+### Sorokin Nikita
 Skills:
 * Python
 * Bash
