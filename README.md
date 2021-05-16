@@ -172,7 +172,7 @@ Skills
 * JavaScript
 #### Role in team: ???
 
-##IoT Team
+## IoT Team
 
 ### Nikita Sorokin
 Skills:
@@ -196,7 +196,7 @@ Skills:
 * English C1
 * Understand computer engineering graphics (creating equipment and so on)
 
-### Small Dmitry
+### Melkih Dmitry
 Skills:
 * Python
 * Basic knowledge of C++
