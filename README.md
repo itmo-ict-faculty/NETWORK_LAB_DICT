@@ -81,6 +81,43 @@ Skills:
 
 Ссылка на репозиторий: `https://gitlab.com/baan/network_lab_dict_cloud`
 
+##Команда IoT
+
+### Сорокин Никита
+Skills:
+* Python
+* Bash
+* Docker
+* LaTeX
+* MTCNA
+* English B1
+
+### Бункута Натан
+Skills:
+* Python
+* Bash
+* Docker
+* LaTeX
+* OpenStack
+* SQL, ORACLE
+* Владею Cisco Packet Tracer
+* MTCNA
+* English C1
+* Разбираюсь в компьютерной инженерной графике (создание оборудования и тп)
+
+### Мелких Дмитрий
+Skills:
+* Python
+* Базовое владение C++
+* Bash
+* Docker
+* LaTeX
+* Базово разбираюсь в базах данных
+* Хороший маркетолог 
+* Навыки создания продающего сайта
+* MTCNA
+* English A2
+
 # Планы на 2021 год:
 
 
@@ -117,7 +154,7 @@ Nikolay developed backend on Python (Django, Flask, Bottle, sqlalchemy, etc) and
 Anastasia has been working as software developer for 2 years mainly focusing Java and SQL programming.
 She has some experiences in and developing web applications on Angular and writing bash, python and Node.js scripts for CI/CD
 
-#### Relo in team: ???
+#### Role in team: ???
 
 ### Filyanin Ivan
 Ivan is certified MTCNA&MTCRE communications engineer. Now he is also working MTCNA teacher at ITMO Mikrotik Academy. His professional experiences include organisation of IP/MPLS networks, WISP, ISP. 
@@ -134,5 +171,42 @@ Skills
 * Python 
 * JavaScript
 #### Role in team: ???
+
+##IoT Team
+
+### Nikita Sorokin
+Skills:
+* Python
+* Bash
+* Docker
+* LaTeX
+* MTCNA
+* English B1
+
+### Bunkuta Nathan
+Skills:
+* Python
+* Bash
+* Docker
+* LaTeX
+* OpenStack
+* SQL, ORACLE
+* Own Cisco Packet Tracer
+* MTCNA
+* English C1
+* Understand computer engineering graphics (creating equipment and so on)
+
+### Small Dmitry
+Skills:
+* Python
+* Basic knowledge of C++
+* Bash
+* Docker
+* LaTeX
+* Basic knowledge of databases
+* A good marketer
+* Skills in creating a selling website
+* MTCNA
+* English A2
 
 # Plans for 2021:
