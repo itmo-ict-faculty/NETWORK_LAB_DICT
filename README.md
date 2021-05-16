@@ -81,7 +81,7 @@ Skills:
 
 Ссылка на репозиторий: `https://gitlab.com/baan/network_lab_dict_cloud`
 
-##Команда IoT
+## Команда IoT
 
 ### Сорокин Никита
 Skills:
